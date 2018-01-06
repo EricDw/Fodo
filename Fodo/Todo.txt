@@ -1,0 +1,5 @@
+Retreive lines as an array or list
+Another line
+line
+thing
+thing

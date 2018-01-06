@@ -6,6 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="HelpDocs.fs" />
+    <Compile Include="Commands.fs" />
+    <Compile Include="Processor.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
